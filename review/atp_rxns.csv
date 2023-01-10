@@ -1,0 +1,12 @@
+REACTION,EQUATION,SUBSYSTEM
+MMRNR09321,H+[c] + tyrosine[c] <=> H+[m] + tyrosine[m],"Transport, mitochondrial"
+MMRNR09319,H+[c] + Pi[c] <=> H+[m] + Pi[m],"Transport, mitochondrial"
+MMRNR04859,AMP[m] + GTP[m] <=> ADP[m] + GDP[m],Nucleotide interconversion
+MMRNR04857,AMP[m] + ATP[m] <=> 2 ADP[m],Nucleotide interconversion
+MMRNR04819,deamido-NAD[c] + H2O[c] <=> AMP[c] + 2 H+[c] + nicotinate ribonucleotide[c],NAD metabolism
+MMRNR04646,dADP[m] + H2O[m] + oxidized thioredoxin[m] => ADP[m] + thioredoxin[m],Miscellaneous
+MMRNR02097,AMP[c] + eicosanoyl-CoA[c] + PPi[c] <=> ATP[c] + CoA[c] + eicosanoate[c],Fatty acid activation (cytosolic)
+MMRNR02089,AMP[c] + PPi[c] + stearoyl-CoA[c] <=> ATP[c] + CoA[c] + stearate[c],Fatty acid activation (cytosolic)
+MMRNR01695,dephospho-CoA[c] + H2O[c] <=> AMP[c] + 2 H+[c] + phosphopantetheine[c],CoA synthesis
+MMRNR00980,H2O[c] + propanoyl-CoA[c] <=> CoA[c] + H+[c] + propanoate[c],Bile acid synthesis
+MMRNR00391,CO2[m] + H2O[m] => H+[m] + HCO3-[m],Arginine and proline metabolism
